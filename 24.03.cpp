@@ -94,7 +94,7 @@ Add a function displayAccount().
 Derive a class SavingsAccount that includes interest rate and
  a function calculateInterest(). 
  Demonstrate usage of both classes.*/
-
+/*
 #include<iostream>
 using namespace std;
 class Account{
@@ -143,4 +143,4 @@ int main()
     //sa2.balance=-10;
  sa2.calculateInterest();
     return 0;
-}
+}*/
